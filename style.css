@@ -42,8 +42,8 @@ body {
 .content-section > p {
   color: hsla(0deg, 0%, 100%, 0.6);
   font-family: Lexend;
-  font-size: 13px;
-  line-height: 20px;
+  font-size: 15px;
+  line-height: 25px;
 }
 @media (max-width: 991px) {
   .content-section > p {
@@ -89,6 +89,7 @@ body {
 .content-section h1 {
   font-family: Inter;
   font-weight: 700;
+  font-size: 35px;
 }
 @media (max-width: 991px) {
   .content-section h1 {
@@ -97,7 +98,7 @@ body {
   }
 }
 
-.content-section h1 box {
+.content-section h1 span {
   color: hsl(277deg, 64%, 61%);
 }
 
