@@ -67,7 +67,7 @@ body {
   }
 }
 
-.content-section div span h2 {
+.content-section div box h2 {
   color: $main-color-gray;
   font-family: Inter;
   margin-bottom: 0.5rem;
@@ -76,7 +76,7 @@ body {
   }
 }
 
-.content-section div span p {
+.content-section div box p {
   margin-top: 0;
   color: $stat-headings-color;
   font-family: Lexend;
@@ -93,7 +93,7 @@ body {
   }
 }
 
-.content-section h1 span {
+.content-section h1 box {
   color: $purple-color;
 }
 

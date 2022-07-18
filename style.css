@@ -67,18 +67,18 @@ body {
   }
 }
 
-.content-section div span h2 {
+.content-section div box h2 {
   color: hsl(0deg, 0%, 100%);
   font-family: Inter;
   margin-bottom: 0.5rem;
 }
 @media (max-width: 991px) {
-  .content-section div span h2 {
+  .content-section div box h2 {
     text-align: center;
   }
 }
 
-.content-section div span p {
+.content-section div box p {
   margin-top: 0;
   color: hsla(0deg, 0%, 100%, 0.6);
   font-family: Lexend;
@@ -97,7 +97,7 @@ body {
   }
 }
 
-.content-section h1 span {
+.content-section h1 box {
   color: hsl(277deg, 64%, 61%);
 }
 
